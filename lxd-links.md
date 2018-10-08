@@ -8,3 +8,6 @@
 
 ## Storage
 * [Storage Management in LXD 2.15](https://blog.ubuntu.com/2017/07/12/storage-management-in-lxd-2-15)
+
+## Networking
+* [How to make your LXD containers get IP addresses from your LAN using a bridge](https://blog.simos.info/how-to-make-your-lxd-containers-get-ip-addresses-from-your-lan-using-a-bridge/)
