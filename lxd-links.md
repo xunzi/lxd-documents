@@ -11,3 +11,4 @@
 
 ## Networking
 * [How to make your LXD containers get IP addresses from your LAN using a bridge](https://blog.simos.info/how-to-make-your-lxd-containers-get-ip-addresses-from-your-lan-using-a-bridge/)
+* [LXD Container Home Server Networking For Dummies](http://trentsonlinedocs.xyz/lxd_container_home_server_networking_for_dummies/)
