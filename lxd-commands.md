@@ -20,3 +20,6 @@ lxc config device add c01 proxy0 proxy listen=tcp:172.16.56.208:2222 connect=tcp
 `lxc profile device set  default root size 3GB`
 
 `lxc config set nginx-proxy limits.cpu 2`
+
+### add new nic device
+`lxc config device add nextcloud eth6 nic  parent=br6 nictype=bridged`
